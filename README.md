@@ -12,4 +12,4 @@ Projet d’architecture hexagonale avec **Spring Boot**, illustrant la simulatio
 
 ```bash
 mvn clean package
-java -jar tresors-carte-1.0.0.jar <inputFile> <outputFile>
+java -jar tresors-chasse-1.0.0.jar <inputFile> <outputFile>

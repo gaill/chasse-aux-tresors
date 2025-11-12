@@ -4,7 +4,7 @@ Projet d’architecture hexagonale avec **Spring Boot**, illustrant la simulatio
 
 ## ⚙️ Stack technique
 - Java 21
-- Spring Boot 3.x
+- Spring Boot 3.5.7
 - Architecture hexagonale (Ports / Adapters)
 - Tests unitaires JUnit 5 / Mockito
 

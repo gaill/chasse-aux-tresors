@@ -22,7 +22,7 @@ public class ChasseAuxTresorsRunner implements CommandLineRunner {
   @Override
   public void run(String... args) throws Exception {
     if (args.length < 2) {
-      System.err.println("Usage: java -jar tresors-carte-1.0.0.jar <inputFile> <outputFile>");
+      System.err.println("Usage: java -jar tresors-chasse-1.0.0.jar <inputFile> <outputFile>");
       return;
     }
 

@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.tresors</groupId>
-    <artifactId>tresors-carte</artifactId>
+    <artifactId>tresors-chasse</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>carte-aux-tresors</name>
+    <name>chasse-aux-tresors</name>
     <description>Simulation de la chasse aux trésors des aventuriers</description>
 
     <!-- Le parent Spring Boot -->
